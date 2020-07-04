@@ -1,0 +1,11 @@
+# Undirected DeBruijn random graph, dimension 3, seed 100265
+n = 8
+m = 13
+0 : 1w65 4w10
+1 : 0w65 2w28 3w30 4w10
+2 : 1w28 4w38 5w90
+3 : 1w30 5w12 6w31 7w77
+4 : 0w10 1w10 2w38 6w55
+5 : 2w90 3w12 6w53
+6 : 3w31 4w55 5w53 7w60
+7 : 3w77 6w60

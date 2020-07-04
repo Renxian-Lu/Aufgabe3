@@ -1,0 +1,13 @@
+# Undirected GNP random graph, edge prob. 0.150, seed 100278
+n = 10
+m = 8
+0 : 4w44 7w31
+1 : 6w63 7w13
+2 : 5w31
+3 :
+4 : 0w44
+5 : 2w31 7w59
+6 : 1w63
+7 : 0w31 1w13 5w59 9w54
+8 : 9w92
+9 : 7w54 8w92

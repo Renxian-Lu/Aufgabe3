@@ -1,0 +1,7 @@
+# Undirected DeBruijn random graph, dimension 2, seed 100264
+n = 4
+m = 5
+0 : 1w33 2w92
+1 : 0w33 2w9 3w18
+2 : 0w92 1w9 3w44
+3 : 1w18 2w44

@@ -1,0 +1,7 @@
+# Undirected Hypercube random graph, dimension 2, seed 100271
+n = 4
+m = 4
+0 : 1w62 2w37
+1 : 0w62 3w23
+2 : 0w37 3w29
+3 : 1w23 2w29

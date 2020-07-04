@@ -1,0 +1,11 @@
+# Undirected Hypercube random graph, dimension 3, seed 100272
+n = 8
+m = 12
+0 : 1w28 2w66 4w27
+1 : 0w28 5w77 6w6
+2 : 0w66 3w94 6w59
+3 : 2w94 4w17 7w83
+4 : 0w27 3w17 5w92
+5 : 1w77 4w92 7w55
+6 : 1w6 2w59 7w69
+7 : 3w83 5w55 6w69

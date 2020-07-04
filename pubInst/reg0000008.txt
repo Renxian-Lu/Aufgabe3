@@ -1,0 +1,11 @@
+# Undirected 3-regular random graph, seed 100281
+n = 8
+m = 14
+0 : 1w66 3w14 5w9 6w53
+1 : 0w66 2w73 3w53 4w64
+2 : 1w73 3w3 4w69 6w75
+3 : 0w14 1w53 2w3 4w71
+4 : 1w64 2w69 3w71 6w16
+5 : 0w9 6w85 7w11
+6 : 0w53 2w75 4w16 5w85
+7 : 5w11
